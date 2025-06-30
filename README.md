@@ -18,9 +18,12 @@ npm install react-icons
 npm installnpm i @splinetool/react-spline
 npm install gsap
 
-
 finally:
 npm run dev
+
+
+Live Preview: https://ephemeral-swan-a359c9.netlify.app/
+
 
 
 ```
