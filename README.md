@@ -29,6 +29,6 @@ npm run dev
 
 ## Demo
 
-Insert gif or link to demo
+Link to demo
 
 https://ephemeral-swan-a359c9.netlify.app/
