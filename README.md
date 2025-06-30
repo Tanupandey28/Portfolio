@@ -1,8 +1,27 @@
-# React + Vite
+# 3D-Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive 3D portfolio website built using React, Framer Motion, and Spline 3D, designed to showcase my projects, experience, and skills as a frontend developer. This visually engaging portfolio blends animation with smooth transitions and 3D design elements to deliver an immersive user experience.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Install my-project with npm
+
+```bash
+  cd 3D-portfolio-website
+  npm install
+  
+
+npm install tailwindcss @tailwindcss/vitenpm
+npm install framer-motion
+npm install react-icons 
+npm installnpm i @splinetool/react-spline
+npm install gsap
+
+
+finally:
+npm run dev
+
+
+```
+    
